@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manpreet Kaur. A Full stack Developer.
-- 👀 I’m interested in doing stuff which makes me a better coder and helps enhancing my skills.
+- 👀 I’m interested in doing stuff that makes me a better coder and helps to enhance my skills.
 - 🌱 I’m currently learning Microservice Architecture.
 
 
