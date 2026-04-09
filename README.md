@@ -109,7 +109,7 @@ Replaced paper-based audits with live video + digital evidence system for Denso 
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full-Stack Engineer (Part-time) | Yeyro Pty Ltd, Melbourne | Jul 2024 – Present |
+| Full-Stack Engineer | Yeyro Pty Ltd, Melbourne | Jul 2024 – Present |
 | Senior Full-Stack Developer | Daffodil Software Pvt Ltd, India | Jun 2015 – Jun 2024 |
 
 **At Daffodil Software (9 years):**
